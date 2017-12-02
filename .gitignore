@@ -1,2 +1,16 @@
 *.class
 *.log
+
+# Gradle
+.gradle/
+build/
+bin/
+gradle/wrapper/*.jar
+
+# IntelliJ
+.idea/
+
+.settings/
+
+# VSCode
+.vscode
